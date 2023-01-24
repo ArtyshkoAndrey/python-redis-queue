@@ -1,0 +1,12 @@
+images
+images_face
+PyFace/images
+PyFace/images_1
+PyFace/images_2
+images_crop/*
+.DS_Store
+models/*
+PyFace/mmod_human_face_detector.dat
+PyFace/shape_predictor_68_face_landmarks.dat
+cache/*
+__pycache__
